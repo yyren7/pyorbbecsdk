@@ -14,7 +14,7 @@
 #  limitations under the License.
 # ******************************************************************************
 import cv2
-
+import sys
 from pyorbbecsdk import Config
 from pyorbbecsdk import OBError
 from pyorbbecsdk import OBSensorType, OBFormat
