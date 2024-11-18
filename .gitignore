@@ -39,7 +39,6 @@ plot_output/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -49,7 +48,6 @@ plot_output/
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
